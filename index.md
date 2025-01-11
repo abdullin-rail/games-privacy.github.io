@@ -2,7 +2,7 @@ Privacy Policy
 
 Introduction
 
-Welcome to Forest Warfare: Royale Shooter! Your privacy is important to us. This Privacy Policy outlines how we collect, use, and protect your information when you use our game.
+Welcome to Business & Life Simulator 3D. Your privacy is important to us. This Privacy Policy outlines how we collect, use, and protect your information when you use our game.
 
 Information We Collect
 
