@@ -1,0 +1,105 @@
+Privacy Policy for Brieforia Application
+Last Updated: 19 Dec 2025
+
+1. Introduction
+This Privacy Policy describes how Brieforia app and/or website ("we," "us," "our") (hereinafter — the "Company"), collects, uses, stores, and discloses information when you use the mobile application Brieforia and related services (hereinafter — the "Service"). By using the Service, you agree to the terms outlined below.
+
+2. Data Controller and Contacts
+For all questions regarding privacy and the processing of your data, please contact: tech@ragervik-games.com
+
+3. What Data We Process
+3.1. User Content: We process data you create or upload to use the Service's features:
+
+Audio recordings (files you record or upload).
+
+Transcripts, summaries, notes, and their metadata (title, tags, creation time).
+
+AI Chat messages, including your questions and any context you provide (e.g., transcript fragments).
+
+Important: Audio recordings and transcripts may contain personal or special category data (e.g., concerning health, beliefs). You have full control over the content of your recordings and are solely responsible for their legality.
+
+3.2. Technical and Analytical Data: To ensure operation, stability, and improvement of the Service, we automatically collect:
+
+Device and application identifiers (e.g., Firebase Installation ID).
+
+Device and OS data (model, version, language).
+
+IP address (may be temporarily logged by our servers or analytics services).
+
+App event data, crash reports, and diagnostic information.
+This data is collected using third-party analytics services such as Google Firebase. Their privacy policies are available here: Google Privacy Policy, Firebase Privacy & Security.
+
+3.3. Payment Data: We do not process or store bank card details. Payments are handled through app stores (Google Play, Apple App Store) or payment providers. We may only receive your subscription status or transaction identifier from them to grant access to features.
+
+4. Purposes and Legal Basis for Processing
+We use your data solely for:
+
+Providing the Service's features (recording, transcription, AI chat).
+
+Technical support, diagnostics, and service improvement.
+
+Ensuring security and preventing fraud.
+
+Complying with legal obligations.
+
+For users from the EEA and the UK, processing is based on the following legal grounds:
+
+Performance of a contract (Art. 6(1)(b) GDPR): to provide you with the core functions of the Service.
+
+Legitimate interests (Art. 6(1)(f) GDPR): for analytics, security, and service improvement.
+
+Your consent (Art. 6(1)(a) GDPR): when explicitly required for specific, optional features.
+
+5. Sharing Data with Third Parties
+We share data strictly to the extent necessary for the Service's operation with the following recipients:
+
+Cloud service and hosting providers: for storing and processing your data.
+
+AI/ML and speech recognition providers: to perform transcription, create summaries, and operate the AI Chat. Necessary fragments of audio, text, or queries may be shared with them.
+
+Analytics services (e.g., Google Firebase): to collect aggregated app usage data.
+
+Government authorities and legal entities: only if we are legally obligated to do so or to protect our legal rights.
+
+We do not sell your audio recordings or personal data.
+
+6. International Transfers
+As we and our service providers operate globally, your data may be processed outside your country of residence. In all cases, we ensure appropriate legal safeguards (e.g., EU Standard Contractual Clauses) are in place to protect your data.
+
+7. Data Retention Periods
+
+Audio recordings (original files) are automatically deleted from our primary servers within 90 days.
+
+Transcripts, notes, AI chat data may be stored longer, for as long as you use the account, or until you delete them or request their deletion.
+
+Technical and analytical data is stored according to the retention periods set by the respective services (e.g., crash data in Firebase may be stored for up to 90 days).
+
+We may retain data longer if required by law or to protect our rights.
+
+8. Your Rights
+Depending on your location, you may have the following rights:
+
+Right to access, rectify, and erase your personal data.
+
+Right to restrict processing or object to it.
+
+Right to data portability.
+
+Right to withdraw consent, if processing is based on it.
+
+For California users: rights under CCPA/CPRA, including the right to know and delete data.
+
+To exercise your rights or for any inquiries, contact us at tech@ragervik-games.com. We will respond within the timeframe required by applicable law.
+
+9. AI Chat: Important Disclaimer
+The AI Chat feature uses language models (LLMs) to generate responses. Responses are created automatically and may contain inaccuracies, outdated, or fabricated information ("hallucinations"). You use the AI Chat at your own risk. We are not responsible for the content, accuracy, or consequences of AI-generated responses. You are obligated to independently verify any important information received through the chat. We do not guarantee the confidentiality of your AI Chat queries and may use them to improve service quality.
+
+10. Data Security
+We implement reasonable technical and organizational measures to protect your data. However, no method of transmission over the Internet or electronic storage is 100% secure, and we cannot guarantee absolute security.
+
+11. Children
+Our Service is not intended for individuals under the age of 13 (or the higher age threshold set in your country). We do not knowingly collect data from such individuals. If you are a parent or guardian and believe your child has provided us with data, please contact us.
+
+12. Changes to the Policy
+We may update this Policy from time to time. The new version becomes effective on the date specified in its header. We will notify you of significant changes via the application or by email. Your continued use of the Service after updates constitutes your acceptance of the new Policy version.
+
