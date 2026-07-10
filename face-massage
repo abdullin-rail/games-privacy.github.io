@@ -1,0 +1,204 @@
+# Privacy Policy
+Effective date: July 10, 2026
+This Privacy Policy explains how the Face Massage Coach mobile application ("App", "we", "us", or "our") collects, uses, and protects information when you use the App.
+This document is provided for general informational purposes and should be reviewed by a qualified legal professional before publication.
+## 1. Who We Are
+Face Massage Coach is a mobile application that provides educational face massage guidance, session flows, and optional augmented reality guidance.
+## 2. Important Health and Privacy Notice
+The App is not a medical device and does not provide medical advice, diagnosis, treatment, rehabilitation, or prevention of any disease or condition.
+The App may use the device camera and ARKit features to display guidance overlays. Face tracking and camera processing are intended to happen on the device. We do not intentionally collect, store, or transmit face scans, biometric templates, facial geometry, photos, videos, or camera images from the App.
+You should not use the App as a substitute for professional medical advice. Consult a qualified doctor or healthcare professional before using the App, especially if you have any medical condition, skin condition, recent surgery, pain, inflammation, pregnancy-related concerns, neurological symptoms, facial implants, injections, dental issues, or any other health concern.
+## 3. Information We Collect
+We do not require you to create an account to use the App.
+Depending on how you use the App, the following categories of information may be collected:
+- App usage information, such as opened screens, selected massage programs, session starts and completions, tab openings, button taps, and similar in-app events.
+- Device and technical information, such as device model, operating system version, app version, language, region, approximate diagnostics, and performance information.
+- Crash and diagnostics information, such as crash logs, stack traces, device state at the time of a crash, and related technical data.
+- Advertising-related information, such as advertising identifiers, ad impressions, clicks, approximate location inferred from IP address, and ad performance data, where permitted by law and platform settings.
+- Local app state stored on your device, such as completed session counters, streak information, and last selected program.
+We do not intentionally collect:
+- Your name, address, phone number, email address, or account credentials.
+- Photos, videos, audio recordings, or camera images.
+- Biometric identifiers or biometric templates.
+- Health records or medical documents.
+- Payment card information.
+## 4. Third-Party Services
+The App uses third-party services that may collect and process data under their own privacy policies:
+### Firebase Analytics
+We use Firebase Analytics to understand how users interact with the App, improve features, measure engagement, and detect issues. Firebase Analytics may collect app usage events, device information, app instance identifiers, and related analytics data.
+Firebase Privacy Policy: https://firebase.google.com/support/privacy
+### Firebase Crashlytics
+We use Firebase Crashlytics to detect, investigate, and fix crashes and technical errors. Crashlytics may collect crash logs, device information, operating system version, app version, stack traces, and diagnostic data.
+Firebase Crashlytics information: https://firebase.google.com/products/crashlytics
+### Google AdMob
+We use Google AdMob to display advertisements in the App. AdMob and its partners may collect and process advertising identifiers, device information, ad interaction data, approximate location, and other data to deliver, measure, and improve ads, including personalized ads where allowed and consented to.
+Google Privacy Policy: https://policies.google.com/privacy  
+Google Ads settings: https://adssettings.google.com/
+## 5. Camera and AR Data
+The App may request camera permission to provide AR face guidance. Camera access is used to display guide lines and visual instructions on your face in real time.
+We do not intentionally upload, store, sell, or share camera images, video, facial scans, or facial geometry. AR processing is intended to be performed locally on your device through Apple system frameworks.
+If you deny camera permission, AR features may not work, but other parts of the App may remain available.
+## 6. How We Use Information
+We use collected information to:
+- Provide and operate the App.
+- Improve App performance, stability, design, and user experience.
+- Understand which features and programs are used.
+- Count and analyze completed sessions.
+- Detect and fix crashes, bugs, and technical problems.
+- Display, personalize, limit, and measure advertisements where permitted.
+- Comply with legal obligations and enforce our rights.
+## 7. Legal Bases Where Applicable
+Where laws such as the GDPR or UK GDPR apply, we may process information based on:
+- Your consent, for example for personalized ads or analytics where consent is required.
+- Our legitimate interests, such as improving the App, preventing abuse, and maintaining security.
+- Performance of a contract, where processing is needed to provide the App.
+- Compliance with legal obligations.
+You may withdraw consent where applicable through device settings, App Tracking Transparency prompts, advertising settings, or consent forms shown in the App.
+## 8. Advertising and Tracking Choices
+Depending on your region and device settings, you may be asked whether you allow tracking or personalized advertising.
+You can control advertising preferences through:
+- iOS Settings > Privacy & Security > Tracking.
+- iOS Settings > Privacy & Security > Apple Advertising.
+- Google Ads settings: https://adssettings.google.com/
+- Any consent form shown inside the App, where available.
+If you disable tracking or personalized ads, you may still see ads, but they may be less relevant.
+## 9. Data Sharing
+We do not sell your personal information in the ordinary meaning of selling data for money.
+Information may be shared with:
+- Service providers that help us operate analytics, crash reporting, advertising, hosting, and diagnostics.
+- Advertising partners involved in serving and measuring ads.
+- Authorities, regulators, courts, or other parties when required by law or necessary to protect rights, safety, and security.
+- Successors in connection with a merger, acquisition, restructuring, or transfer of the App.
+Third-party services may process data independently under their own terms and privacy policies.
+## 10. Data Retention
+We retain information only for as long as reasonably necessary for the purposes described in this Privacy Policy, unless a longer retention period is required or permitted by law.
+Retention periods for analytics, crash, and advertising data may also be controlled by Firebase, Google, AdMob, and other third-party service providers.
+Local app data stored on your device may remain until you delete the App, reset the data, or clear device storage.
+## 11. International Data Transfers
+Third-party services used by the App may process information on servers located in different countries. These countries may have different data protection laws than your country of residence.
+Where required, third-party providers are responsible for using appropriate safeguards for international transfers.
+## 12. Children's Privacy
+The App is not intended for children under 13 years old, or under the minimum age required by the laws of your country.
+We do not knowingly collect personal information from children. If you believe a child has provided personal information through the App, contact us and we will take reasonable steps to delete it.
+## 13. Your Rights
+Depending on your location, you may have rights to:
+- Access personal information about you.
+- Request correction or deletion.
+- Object to or restrict certain processing.
+- Withdraw consent.
+- Request data portability.
+- Lodge a complaint with a data protection authority.
+To exercise rights, contact us. We may need to verify your request.
+## 14. Security
+We use reasonable technical and organizational measures intended to protect information. However, no method of transmission or storage is completely secure, and we cannot guarantee absolute security.
+You are responsible for maintaining the security of your device, operating system, and app permissions.
+## 15. Changes to This Privacy Policy
+We may update this Privacy Policy from time to time. Updates will be posted in the App, on our website, or in the app store listing where appropriate.
+Your continued use of the App after changes become effective means you accept the updated Privacy Policy, where permitted by law.
+
+
+
+# Terms of Use
+Effective date: July 10, 2026
+These Terms of Use ("Terms") govern your access to and use of the Face Massage Coach mobile application ("App", "we", "us", or "our").
+By downloading, accessing, or using the App, you agree to these Terms. If you do not agree, do not use the App.
+This document is provided for general informational purposes and should be reviewed by a qualified legal professional before publication.
+## 1. Educational and Informational Purpose Only
+The App provides general educational and informational content related to face massage techniques, wellness routines, and self-care guidance.
+The App is not a medical product, medical device, healthcare service, treatment program, diagnostic tool, therapy, rehabilitation tool, or substitute for professional medical advice.
+The App does not diagnose, treat, cure, prevent, or monitor any disease, disorder, injury, symptom, or medical condition.
+## 2. Medical Disclaimer
+Before using the App or following any massage, facial, wellness, AR-guided, or self-care instruction, you must consult a qualified doctor, dermatologist, cosmetologist, physiotherapist, or other appropriate healthcare professional.
+This is especially important if you:
+- Have pain, swelling, inflammation, numbness, weakness, dizziness, headaches, neurological symptoms, skin disease, acne, rosacea, eczema, dermatitis, wounds, bruises, burns, infection, fever, or any other symptoms.
+- Recently had surgery, injections, fillers, botulinum toxin, cosmetic procedures, dental procedures, trauma, or medical treatment.
+- Have implants, facial paralysis, nerve disorders, blood clotting disorders, cancer, autoimmune disease, cardiovascular disease, high blood pressure, pregnancy-related concerns, or any chronic illness.
+- Are unsure whether a massage, facial pressure, movement, or technique is safe for you.
+Do not use the App if a doctor or healthcare professional has advised you to avoid massage, facial pressure, skin manipulation, or similar activity.
+Stop using the App immediately if you feel pain, discomfort, dizziness, nausea, numbness, unusual skin reaction, worsening symptoms, emotional distress, or any other adverse effect. Seek medical advice promptly if symptoms persist or concern you.
+In an emergency, contact emergency services immediately. Do not rely on the App for emergency assistance.
+## 4. No Professional Relationship
+Use of the App does not create a doctor-patient, therapist-client, cosmetologist-client, fiduciary, advisory, or other professional relationship between you and us.
+Any content in the App is general and may not be suitable for your individual health, anatomy, skin condition, age, medical history, or personal circumstances.
+## 5. Your Responsibility and Assumption of Risk
+You use the App entirely at your own risk.
+You are solely responsible for:
+- Deciding whether the App and any technique are suitable for you.
+- Consulting qualified professionals before use.
+- Following professional advice and medical restrictions.
+- Using safe pressure, movements, posture, environment, and hygiene.
+- Stopping immediately if something feels unsafe or uncomfortable.
+- Ensuring that your device, camera, screen, and surroundings are safe for use.
+You acknowledge that facial massage, skin contact, repeated movements, pressure, and AR-guided activities may involve risks, including irritation, pain, bruising, worsening of symptoms, skin reaction, infection risk, discomfort, or other unwanted effects.
+To the maximum extent permitted by law, you voluntarily assume all risks arising from your use of the App.
+## 6. No Guarantees
+We do not guarantee that:
+- The App will produce any specific result.
+- The App will improve appearance, health, skin condition, relaxation, tone, swelling, pain, or any other outcome.
+- Any technique is safe, appropriate, or effective for you.
+- The App will be uninterrupted, error-free, accurate, complete, or available at all times.
+- AR guidance, face tracking, timers, overlays, or instructions will always be accurate or suitable.
+Any examples, descriptions, illustrations, animations, instructions, or session flows are provided "as is" for general informational purposes.
+## 7. Limitation of Liability
+To the maximum extent permitted by applicable law, we, our owners, developers, employees, contractors, affiliates, partners, licensors, and service providers will not be liable for any direct, indirect, incidental, consequential, special, punitive, exemplary, or other damages arising from or related to your use of, inability to use, or reliance on the App.
+This includes, without limitation, damages related to:
+- Injury, pain, discomfort, medical complications, skin reactions, or health consequences.
+- Reliance on App content instead of professional advice.
+- Incorrect, incomplete, outdated, or misunderstood instructions.
+- AR, camera, tracking, timer, display, or technical errors.
+- Loss of data, device issues, interruption, bugs, crashes, or security incidents.
+- Advertisements, third-party services, links, offers, or content.
+- Any decision or action you take based on the App.
+Where liability cannot legally be excluded, our liability is limited to the maximum extent permitted by law.
+Some jurisdictions do not allow certain limitations of liability. In such jurisdictions, limitations apply only to the extent permitted by law.
+## 8. Indemnification
+To the maximum extent permitted by law, you agree to defend, indemnify, and hold harmless us, our owners, developers, employees, contractors, affiliates, partners, licensors, and service providers from any claims, damages, losses, liabilities, costs, and expenses arising from:
+- Your use or misuse of the App.
+- Your violation of these Terms.
+- Your violation of any law or third-party right.
+- Your failure to seek professional medical or healthcare advice.
+- Any injury, condition, damage, or consequence related to your use of App content or techniques.
+## 9. User Eligibility
+You must be at least 13 years old, or the minimum legal age required in your jurisdiction, to use the App.
+If you are under the age of majority, you may use the App only with permission and supervision of a parent or legal guardian. The parent or guardian is responsible for your use of the App.
+## 10. Acceptable Use
+You agree not to:
+- Use the App in a way that may harm you or others.
+- Ignore medical advice or use the App despite contraindications.
+- Reverse engineer, decompile, modify, copy, sell, rent, or exploit the App except as permitted by law.
+- Interfere with the App, servers, analytics, ads, security, or third-party services.
+- Use the App for unlawful, harmful, abusive, fraudulent, or misleading purposes.
+- Remove copyright, trademark, or proprietary notices.
+## 11. Ads and Third-Party Services
+The App may display advertisements through Google AdMob and may use Firebase and other third-party services for analytics, crash reporting, advertising, diagnostics, and app functionality.
+We are not responsible for third-party ads, products, claims, links, websites, offers, services, privacy practices, or content. Interactions with third parties are solely between you and the third party.
+Your use of third-party services may be subject to their own terms and privacy policies.
+## 12. Privacy
+Your use of the App is also governed by our Privacy Policy.
+## 13. Camera and AR Features
+The App may request camera permission to provide AR-guided visual overlays. AR features may be unavailable, inaccurate, delayed, interrupted, or unsupported depending on your device, lighting, camera permission, face tracking support, and environment.
+You are responsible for using the App in a safe environment and ensuring that camera use is lawful and appropriate.
+Do not use AR features while walking, driving, operating equipment, or in any situation where distraction could be unsafe.
+## 14. Intellectual Property
+The App, including its design, text, graphics, code, animations, sounds, logos, features, and content, is owned by us or our licensors and is protected by intellectual property laws.
+You receive a limited, revocable, non-exclusive, non-transferable license to use the App for personal, non-commercial purposes, subject to these Terms.
+You do not acquire any ownership rights in the App or its content.
+## 15. App Store Terms
+If you downloaded the App from the Apple App Store, your use of the App may also be subject to Apple Media Services Terms and App Store rules.
+Apple is not responsible for the App, its content, support, claims, warranties, or maintenance, except as required by applicable law.
+## 16. Updates, Changes, and Availability
+We may update, modify, suspend, or discontinue the App or any feature at any time without notice or liability, to the maximum extent permitted by law.
+We may also update these Terms from time to time. Continued use of the App after changes become effective means you accept the updated Terms, where permitted by law.
+## 17. Termination
+We may suspend or terminate your access to the App if you violate these Terms or if continued access may create legal, security, operational, or safety risks.
+You may stop using the App at any time and delete it from your device.
+## 18. Warranty Disclaimer
+The App is provided "as is" and "as available", without warranties of any kind, whether express, implied, statutory, or otherwise.
+To the maximum extent permitted by law, we disclaim all warranties, including implied warranties of merchantability, fitness for a particular purpose, accuracy, availability, non-infringement, and safety.
+## 19. Governing Law
+These Terms are governed by the laws, without regard to conflict of law rules, unless mandatory consumer protection laws provide otherwise.
+Any disputes will be resolved in the courts or dispute resolution forum, unless applicable law requires another venue.
+## 20. Severability
+If any part of these Terms is found invalid or unenforceable, the remaining parts will remain in effect. The invalid or unenforceable part will be interpreted to achieve its purpose as closely as legally possible.
+
+
