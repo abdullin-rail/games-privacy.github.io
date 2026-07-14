@@ -1,0 +1,94 @@
+# Privacy Policy and End User License Agreement
+**For Dev Disk Cleaner Pro (also displayed as Docker Disk Cleaner)**  
+**Effective date: July 14, 2026**
+This document governs the use of Dev Disk Cleaner Pro (the “Application”) and the processing of data associated with its use. By installing, launching, or using the Application, the user confirms that they have read and agree to this document. If the user does not agree to these terms, they must stop using and delete the Application.
+## Part I. Privacy Policy
+### 1. General
+The Application is designed to analyze disk space usage, monitor system resources, and remove caches, development artifacts, and Docker objects selected by the user on macOS.
+The Application does not require an account and does not request the user's name, telephone number, mailing address, email address, payment information, contacts, messages, photos, or precise location.
+### 2. Data Processed Locally
+To provide its features, the Application may, with the user's permission, access:
+- folders selected by the user and available file and directory metadata within them, including names, paths, sizes, and dates;
+- cache and artifact directories associated with Homebrew, Xcode, Swift Package Manager, Gradle, pnpm, Ollama, and `node_modules`;
+- information from the local Docker Engine about images, containers, volumes, and build cache, including identifiers, names, tags, sizes, dates, and statuses;
+- local system metrics, including CPU, memory and GPU usage, swap, temperature, and fan speed;
+- technical settings required to connect to the Docker Engine;
+- environment variables required to locate relevant tools and directories.
+File system scanning is intended to determine the location and size of objects. The Application is not designed to read the contents of user documents.
+Scan results, system metrics, selected scan roots, lists of protected objects, the Docker Engine address, and access permissions are stored or processed locally on the device. The Application may use security-scoped bookmarks in its local settings to preserve macOS permissions.
+The Application does not provide proprietary cloud storage, synchronize user files, or sell personal data.
+### 3. Analytics Data
+The Application uses Google Firebase Analytics to obtain aggregated technical statistics and improve the Application. Depending on configuration, operating system version, and the service provider's policies, the following data may be processed automatically:
+- Application launches and navigation between sections;
+- refresh and scan results, the selected cache provider type, object counts, and data volume;
+- initiation, successful completion, or failure of cleanup and deletion operations;
+- changes to scan and object-protection settings;
+- information about Docker or macOS permissions being unavailable;
+- technical information about the device, operating system, Application version, language, region, and Application instance identifier;
+- diagnostic error descriptions, which in some cases may contain technical names or paths.
+The Application is not intended to transmit file contents, passwords, access keys, Docker volume contents, the macOS username, or complete lists of discovered files to analytics. The Application does not use advertising features.
+Google processes analytics data as an independent service provider under its own terms and privacy policy. Data may be processed on servers outside the user's country. Google's settings and policies determine its data retention periods and security practices.
+The user may limit analytics transmission using macOS controls, network settings, or by discontinuing use of the Application. These measures may not completely disable every technical request.
+### 4. Docker Engine and Third-Party Tools
+The Application may connect to the Docker Engine through a local Unix socket or an HTTP address specified by the user. When a remote or unsecured TCP connection is used, Docker information and commands are transmitted to the relevant Docker Engine over the channel selected by the user. The user is solely responsible for the security of the address, network, encryption, and Docker Engine access permissions.
+For certain operations, the Application may locally run Homebrew or pnpm commands installed by the user. Their operation is governed by the settings and terms of the relevant tools.
+### 5. macOS Permissions
+The Application requests access only when required for a selected feature. The user selects folders and may revoke permissions in macOS settings or remove the Application's local settings. Revoking a permission may make the relevant feature unavailable.
+### 6. Data Deletion
+Local settings and saved permissions can be removed by deleting the Application and its associated data using standard macOS tools.
+Objects deleted by the user through the Application may be removed permanently and are not data stored by the Application's rightsholder. The Application does not create backups of deleted objects.
+Data previously transmitted to Firebase Analytics is deleted or de-identified according to Google's procedures and retention periods and may not be deleted when the Application is removed.
+### 7. Data Security
+The Application uses the macOS App Sandbox and operating-system permission mechanisms. However, no method of storage or transmission can guarantee absolute security. The user is responsible for protecting their device, macOS account, Docker Engine, and backups.
+### 8. Children
+The Application is a professional utility and is not intended for anyone under 16 years of age. The rightsholder does not knowingly request children's data. Anyone below the age at which they may independently consent under applicable law may use the Application only with permission from a legal guardian.
+### 9. Changes to This Policy
+This Policy may be updated when the Application's features, services, or legal requirements change. A revised version applies from the date stated in it and will be published with the Application or on its distribution page. Where the law requires separate consent, the changes will apply only after that consent has been obtained.
+## Part II. End User License Agreement
+### 1. License
+Subject to compliance with this Agreement, the user is granted a limited, revocable, non-exclusive, non-transferable license to install and use the Application on compatible Apple devices for personal or internal professional purposes.
+The user does not acquire ownership of the Application. All rights to the source code, interface, graphics, name, and other elements of the Application remain with their respective rightsholders.
+### 2. Acceptable Use
+The user agrees to:
+- use the Application lawfully and only in connection with devices, files, projects, and Docker Engines they are authorized to manage;
+- review selected objects before confirming deletion;
+- create all necessary backups;
+- not circumvent security, licensing, or access restrictions;
+- not use the Application for unauthorized access, system disruption, or harmful activity;
+- not distribute, rent, resell, or provide the Application as a standalone service without the rightsholder's permission;
+- not modify, decompile, or attempt to derive the source code, except where expressly permitted by mandatory law or applicable open-source licenses.
+### 3. Cleanup and Deletion Operations
+The Application performs potentially irreversible operations only at the user's direction, including deleting caches, `node_modules`, Ollama models, Xcode data, Docker images, containers, volumes, and build cache.
+Any assessment that an object is unnecessary is technical and advisory. An object identified as unused may still be required by the user, a project, a build environment, or a third-party tool.
+The user must independently review their selection before confirming an operation. Object-protection features reduce the risk of accidental deletion but do not replace backups and do not guarantee protection against user error, third-party software, or changes to the Docker Engine or operating system.
+### 4. Monitoring and Analysis Results
+Disk, CPU, memory, GPU, temperature, and other resource measurements may be approximate, incomplete, or unavailable due to hardware, macOS, sandbox, permission, or third-party software limitations. They are not professional diagnostics and should not be the sole basis for decisions that may affect data integrity or hardware.
+### 5. Third-Party Software
+Some features require macOS, Docker Engine, Homebrew, pnpm, Xcode, or other third-party components. The Application's rightsholder does not control them and is not responsible for their availability, changes, defects, security, or terms of use.
+The Application may include open-source libraries. Such components are governed by their respective licenses. In the event of a conflict, the applicable open-source license takes precedence solely with respect to its component.
+### 6. Updates and Availability
+The Application is provided “as is” and “as available.” Its features may be changed, suspended, or discontinued. Updates may require a newer version of macOS, Docker, or other components.
+To the fullest extent permitted by law, no implied warranties are made regarding uninterrupted operation, absence of errors, absolute accuracy of results, compatibility with every configuration, or fitness for a particular purpose.
+Nothing in this Agreement limits mandatory consumer rights that cannot be excluded by contract.
+### 7. Limitation of Liability
+The user makes all deletion decisions and is responsible for selected objects, connection settings, and maintaining backups.
+To the fullest extent permitted by applicable law, the rightsholder is not liable for indirect, incidental, special, or consequential damages, loss of profits, downtime, or loss of data, configurations, projects, caches, images, containers, or volumes arising from the use of or inability to use the Application.
+If liability cannot be excluded entirely, the rightsholder's total aggregate liability is limited to the amount actually paid by the user for the Application during the 12 months preceding the event giving rise to the claim. If the Application was obtained free of charge, liability is limited to the minimum amount permitted by applicable law. These limitations do not apply where prohibited by law, including liability for intentional misconduct or liability that cannot legally be limited.
+### 8. Indemnification
+To the extent permitted by law, the user must indemnify the rightsholder against documented losses and reasonable expenses arising from the user's unlawful use of the Application, infringement of third-party rights, or management of systems without proper authorization. This provision does not apply to a consumer to the extent such an obligation is prohibited by law.
+### 9. Termination
+The user may terminate this Agreement at any time by deleting the Application. The license terminates automatically upon a material breach of this Agreement. Following termination, the user must delete all copies of the Application unless retention is permitted by law or the rules of the distribution platform.
+The provisions concerning intellectual property, limitation of liability, governing law, and the consequences of breach survive termination.
+### 10. Distribution Platforms
+If the Application is obtained through the Mac App Store or another platform, that platform's rules also apply. In the event of a conflict, the platform's mandatory rules prevail to the extent of the conflict.
+Apple is not a party to this Agreement and is not required to provide maintenance or support for the Application. To the extent provided by the App Store rules, Apple and its subsidiaries are third-party beneficiaries of the license terms and may enforce them.
+### 11. Export Controls
+The user may not use, export, or transfer the Application in violation of applicable sanctions or export and import restrictions. The user represents that their use of the Application is not prohibited by applicable law.
+### 12. Governing Law and Disputes
+This Agreement is governed by the laws of the country in which the rightsholder is located, without regard to conflict-of-law principles, unless the mandatory laws of the user's country of residence provide otherwise.
+The parties should first attempt to resolve a dispute through good-faith negotiations or any mandatory pre-litigation procedure required by law. Any dispute will be heard by a court with jurisdiction over the defendant, unless mandatory consumer-protection rules entitle the user to bring the claim before another court.
+### 13. Severability and Entire Agreement
+If any provision is held invalid or unenforceable, the remaining provisions remain effective, and the invalid provision will apply to the maximum extent permitted by law.
+Failure to enforce a right does not constitute a waiver of that right. This document, together with the mandatory rules of the distribution platform, constitutes the agreement governing use of the Application.
+### 14. Changes to This Agreement
+This Agreement may be updated when the Application or applicable law changes. Material changes apply to continued use after publication of the revised version and, where required by law, after notice or consent.
