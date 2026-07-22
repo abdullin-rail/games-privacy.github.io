@@ -6,7 +6,7 @@ This document is provided for general informational purposes and should be revie
 Face Massage Coach is a mobile application that provides educational face massage guidance, session flows, and optional augmented reality guidance.
 ## 2. Important Health and Privacy Notice
 The App is not a medical device and does not provide medical advice, diagnosis, treatment, rehabilitation, or prevention of any disease or condition.
-The App may use the device camera and ARKit features to display guidance overlays. Face tracking and camera processing are intended to happen on the device. We do not intentionally collect, store, or transmit face scans, biometric templates, facial geometry, photos, videos, or camera images from the App.
+The App may use the device camera and ARKit features to display guidance overlays. Face tracking and camera processing are occurs locally on the device. We do not intentionally collect, store, or transmit face scans, biometric templates, facial geometry, photos, videos, or camera images from the App.
 You should not use the App as a substitute for professional medical advice. Consult a qualified doctor or healthcare professional before using the App, especially if you have any medical condition, skin condition, recent surgery, pain, inflammation, pregnancy-related concerns, neurological symptoms, facial implants, injections, dental issues, or any other health concern.
 ## 3. Information We Collect
 We do not require you to create an account to use the App.
@@ -38,6 +38,13 @@ Google Ads settings: https://adssettings.google.com/
 The App may request camera permission to provide AR face guidance. Camera access is used to display guide lines and visual instructions on your face in real time.
 We do not intentionally upload, store, sell, or share camera images, video, facial scans, or facial geometry. AR processing is intended to be performed locally on your device through Apple system frameworks.
 If you deny camera permission, AR features may not work, but other parts of the App may remain available.
+
+The App uses Apple’s TrueDepth camera and ARKit face-tracking APIs during the Live Guide feature. The App temporarily processes facial pose, face-tracking status, and three-dimensional face mesh coordinates provided through ARFaceAnchor. This information is used solely to position massage guide lines and zones on the user’s face in real time.
+The App does not use face data to identify or authenticate users, create user profiles, make advertising decisions, or perform medical analysis.
+All TrueDepth and face data processing occurs locally on the user’s device. The App does not upload, transmit, store, record, sell, or retain camera images, videos, face scans, facial geometry, biometric identifiers, or biometric templates. Face data exists only temporarily while the Live Guide session is active and is discarded as frames are replaced and when the AR session ends.
+TrueDepth and face data is not shared with Firebase, Crashlytics, Google AdMob, Apphud, advertisers, analytics providers, or any other third party. Because the App does not retain this data, there is no server-side face data to delete. Ending the Live Guide session or closing the App stops its processing.
+
+
 ## 6. How We Use Information
 We use collected information to:
 - Provide and operate the App.
